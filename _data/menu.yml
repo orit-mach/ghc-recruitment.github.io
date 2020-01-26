@@ -2,10 +2,13 @@
   link: /
 
 - title: About
-  link: /about/
+  link: /who-we-are/
 
-- title: Services
+- title: Our service
   link: "/services/"
+  
+- title: Candidate care
+  link: "/candidate-care/"
 
 - title: Contact
   link: "/contact/"
